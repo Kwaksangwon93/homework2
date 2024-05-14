@@ -1,5 +1,5 @@
 <div align = "center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9FF781&height=120&section=header" />
 
 <h1> 상원이의 2D게임 </h1>
 <br>
@@ -20,18 +20,18 @@
 
 |게임 타이틀|메인 화면|
 |:------:|:------:|
-|![title](https://github.com/diddmstn/OronaminC/blob/sangwon/ReadMeImg/1_title.PNG?raw=true)|![job](https://github.com/diddmstn/OronaminC/blob/Dev/ReadMeImg/2_job.PNG?raw=true)|
-|플레이어 네임 작성|플레이어 직업 선택|
+|![title](https://github.com/Kwaksangwon93/homework2/blob/main/ReadMeImages/title.PNG?raw=true)|![home](https://github.com/Kwaksangwon93/homework2/blob/main/ReadMeImages/home.PNG?raw=true)|
+|시작정보 입력|플레이어 집 구경|
 
 |계절<봄>|계절<여름>|
 |:------:|:------:|
-|![main](https://github.com/diddmstn/OronaminC/blob/Dev/ReadMeImg/3_main.PNG?raw=true)|![stat](https://github.com/diddmstn/OronaminC/blob/Dev/ReadMeImg/4_stat.PNG?raw=true)|
-|원하는 메뉴 선택|플레이어 상태 확인|
+|![spring](https://github.com/Kwaksangwon93/homework2/blob/main/ReadMeImages/spring.PNG?raw=true)|![summer](https://github.com/Kwaksangwon93/homework2/blob/main/ReadMeImages/summer.PNG?raw=true)|
+|따뜻한 봄 맵|덥다더워 여름 맵|
 
 |계절<가을>|계절<겨울>|
 |:------:|:------:|
-|![inven](https://github.com/diddmstn/OronaminC/blob/sangwon/ReadMeImg/5_inven.PNG?raw=true)|![shop](https://github.com/diddmstn/OronaminC/blob/Dev/ReadMeImg/6_shop.PNG?raw=true)|
-|내 아이템 확인|아이템 구매|
+|![autumn](https://github.com/Kwaksangwon93/homework2/blob/main/ReadMeImages/autumn.PNG?raw=true)|![winter](https://github.com/Kwaksangwon93/homework2/blob/main/ReadMeImages/winter.PNG?raw=true)|
+|시원한 가을 맵|아이 추워 겨울 맵|
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9FF781&height=120&section=footer" />
 </div>
